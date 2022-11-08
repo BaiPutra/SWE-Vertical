@@ -1,6 +1,6 @@
 # SWE-Vertical
 
-Software Engineering Curriculum
+**Software Engineering Curriculum**
 
 ## Fundamental Programming
 ## Front End Development
